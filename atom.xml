@@ -4,7 +4,7 @@
   <title><![CDATA[沒事別學寫程式]]></title>
   <link href="http://xanJuice.github.com/atom.xml" rel="self"/>
   <link href="http://xanJuice.github.com/"/>
-  <updated>2012-07-04T02:20:14+08:00</updated>
+  <updated>2012-07-04T02:51:04+08:00</updated>
   <id>http://xanJuice.github.com/</id>
   <author>
     <name><![CDATA[xanJuice]]></name>
@@ -14,11 +14,14 @@
 
   
   <entry>
-    <title type="html"><![CDATA[FirstPost]]></title>
+    <title type="html"><![CDATA[adsf]]></title>
     <link href="http://xanJuice.github.com/blog/2012/07/04/firstpost/"/>
     <updated>2012-07-04T01:34:00+08:00</updated>
     <id>http://xanJuice.github.com/blog/2012/07/04/firstpost</id>
     <content type="html"><![CDATA[<p>asdf</p>
+
+<p><img src="../images/test.png" alt="test" />
+asdfas</p>
 ]]></content>
   </entry>
   
