@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[沒事別學寫程式]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-07-04T01:57:54+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[xanJuice]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[FirstPost]]></title>
+    <link href="http://yoursite.com/blog/2012/07/04/firstpost/"/>
+    <updated>2012-07-04T01:34:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/07/04/firstpost</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
