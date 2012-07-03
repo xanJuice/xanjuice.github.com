@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[沒事別學寫程式]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-07-04T01:57:54+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://xanJuice.github.com/atom.xml" rel="self"/>
+  <link href="http://xanJuice.github.com/"/>
+  <updated>2012-07-04T02:20:14+08:00</updated>
+  <id>http://xanJuice.github.com/</id>
   <author>
     <name><![CDATA[xanJuice]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[FirstPost]]></title>
-    <link href="http://yoursite.com/blog/2012/07/04/firstpost/"/>
+    <link href="http://xanJuice.github.com/blog/2012/07/04/firstpost/"/>
     <updated>2012-07-04T01:34:00+08:00</updated>
-    <id>http://yoursite.com/blog/2012/07/04/firstpost</id>
-    <content type="html"><![CDATA[
+    <id>http://xanJuice.github.com/blog/2012/07/04/firstpost</id>
+    <content type="html"><![CDATA[<p>asdf</p>
 ]]></content>
   </entry>
   
